@@ -1,0 +1,18 @@
+ToDoList
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	modified:   package-lock.json
+#	modified:   package.json
+#	deleted:    public/favicon.ico
+#	deleted:    public/logo192.png
+#	deleted:    public/logo512.png
+#	modified:   src/App.css
+#	modified:   src/App.js
+#	new file:   src/ToDoList.js
+#	modified:   src/index.css
+#	modified:   src/index.js
+#	deleted:    src/logo.svg
+#
